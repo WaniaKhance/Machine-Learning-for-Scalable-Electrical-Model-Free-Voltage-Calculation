@@ -12,7 +12,7 @@ This project focuses on analyzing power grid data and predicting voltage magnitu
 
 ## Data Privacy
 
-This project involves proprietary data from a corporate partner. Out of respect for the organization's confidentiality and intellectual property rights, the specific dataset used in this analysis cannot be publicly shared
+This project involves proprietary data from a corporate partner. Out of respect for the organization's confidentiality and intellectual property rights, the specific dataset used in this analysis cannot be publicly shared.
 
 ## Features
 
